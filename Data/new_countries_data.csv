@@ -1,0 +1,251 @@
+Country,Landmarks,Currency,Continent,Capital
+South Georgia,Shackleton's Grave  ,SHP,Antarctic,King Edward Point
+Grenada,Grand Anse Beach  ,XCD,Americas,St. George's
+Switzerland,Matterhorn  ,CHF,Europe,Bern
+Sierra Leone,Tokeh Beach  ,SLL,Africa,Freetown
+Hungary,Buda Castle  ,HUF,Europe,Budapest
+Wallis and Futuna,Lake Lalolalo  ,XPF,Oceania,Mata-Utu
+Barbados,Animal Flower Cave  ,BBD,Americas,Bridgetown
+Pitcairn Islands,Bounty Bay  ,NZD,Oceania,Adamstown
+Ivory Coast,Basilica of Our Lady of Peace  ,XOF,Africa,Yamoussoukro
+Tunisia,Amphitheatre of El Djem  ,TND,Africa,Tunis
+Italy,Colosseum  ,EUR,Europe,Rome
+Benin,Temple of Pythons  ,XOF,Africa,Porto-Novo
+Indonesia,Borobudur Temple  ,IDR,Asia,Jakarta
+Cape Verde,Pedra de Lume Salt Crater  ,CVE,Africa,Praia
+Saint Kitts and Nevis,Brimstone Hill Fortress  ,XCD,Americas,Basseterre
+Laos,Patuxai Monument  ,LAK,Asia,Vientiane
+Caribbean Netherlands,Bonaire National Marine Park  ,USD,Americas,Kralendijk
+Uganda,Murchison Falls  ,UGX,Africa,Kampala
+Andorra,Vallnord Ski Resort  ,EUR,Europe,Andorra la Vella
+Burundi,Kibira National Park  ,BIF,Africa,Gitega
+South Africa,Table Mountain  ,ZAR,Africa,Pretoria
+France,Eiffel Tower  ,EUR,Europe,Paris
+Libya,Leptis Magna  ,LYD,Africa,Tripoli
+Mexico,Chichen Itza  ,MXN,Americas,Mexico City
+Gabon,Loango National Park  ,XAF,Africa,Libreville
+Northern Mariana Islands,Banzai Cliff  ,USD,Oceania,Saipan
+North Macedonia,Ohrid Lake  ,MKD,Europe,Skopje
+China,Great Wall of China  ,CNY,Asia,Beijing
+Yemen,Socotra Island  ,YER,Asia,Sana'a
+Saint BarthÃ©lemy,Gustavia Harbor  ,EUR,Americas,Gustavia
+Guernsey,Castle Cornet  ,"GBP, GGP",Europe,St. Peter Port
+Solomon Islands,Rennell Island  ,SBD,Oceania,Honiara
+Svalbard and Jan Mayen,Nordenskiöld Glacier  ,NOK,Europe,Longyearbyen
+Faroe Islands,Lake Sørvágsvatn  ,"DKK, FOK",Europe,TÃ³rshavn
+Uzbekistan,Registan Square  ,UZS,Asia,Tashkent
+Egypt,Pyramids of Giza  ,EGP,Africa,Cairo
+Senegal,Gorée Island  ,XOF,Africa,Dakar
+Sri Lanka,Sigiriya Rock Fortress  ,LKR,Asia,Sri Jayawardenepura Kotte
+Palestine,Dome of the Rock  ,"EGP, ILS, JOD",Asia,Ramallah
+Bangladesh,Sundarbans Mangrove Forest  ,BDT,Asia,Dhaka
+Peru,Machu Picchu  ,PEN,Americas,Lima
+Singapore,Marina Bay Sands  ,SGD,Asia,Singapore
+Turkey,Hagia Sophia  ,TRY,Asia,Ankara
+Afghanistan,Bamiyan Buddhas  ,AFN,Asia,Kabul
+Aruba,Eagle Beach  ,AWG,Americas,Oranjestad
+Cook Islands,Aitutaki Lagoon  ,"CKD, NZD",Oceania,Avarua
+United Kingdom,Big Ben  ,GBP,Europe,London
+Zambia,Victoria Falls  ,ZMW,Africa,Lusaka
+Finland,Northern Lights in Lapland  ,EUR,Europe,Helsinki
+Niger,W National Park  ,XOF,Africa,Niamey
+Christmas Island,Flying Fish Cove  ,AUD,Oceania,Flying Fish Cove
+Tokelau,Atafu Atoll  ,NZD,Oceania,Fakaofo
+Guinea-Bissau,Bijagós Archipelago  ,XOF,Africa,Bissau
+Azerbaijan,Maiden Tower  ,AZN,Asia,Baku
+RÃ©union,Piton de la Fournaise  ,EUR,Africa,Saint-Denis
+Djibouti,Lake Assal  ,DJF,Africa,Djibouti
+North Korea,Juche Tower  ,KPW,Asia,Pyongyang
+Mauritius,Le Morne Brabant  ,MUR,Africa,Port Louis
+Montserrat,Soufrière Hills Volcano  ,XCD,Americas,Plymouth
+United States Virgin Islands,Trunk Bay  ,USD,Americas,Charlotte Amalie
+Colombia,Santuario de Las Lajas  ,COP,Americas,BogotÃ¡
+Greece,Acropolis of Athens  ,EUR,Europe,Athens
+Croatia,Plitvice Lakes  ,EUR,Europe,Zagreb
+Morocco,Chefchaouen  ,MAD,Africa,Rabat
+Algeria,Casbah of Algiers  ,DZD,Africa,Algiers
+Antarctica,McMurdo Station  ,,Antarctic,
+Netherlands,Keukenhof Gardens  ,EUR,Europe,Amsterdam
+Sudan,Meroe Pyramids  ,SDG,Africa,Khartoum
+Fiji,Bouma Falls  ,FJD,Oceania,Suva
+Liechtenstein,Vaduz Castle  ,CHF,Europe,Vaduz
+Nepal,Mount Everest  ,NPR,Asia,Kathmandu
+Puerto Rico,San Juan Old Town  ,USD,Americas,San Juan
+Georgia,Gergeti Trinity Church  ,GEL,Asia,Tbilisi
+Pakistan,Badshahi Mosque  ,PKR,Asia,Islamabad
+Monaco,Monte Carlo Casino  ,EUR,Europe,Monaco
+Botswana,Okavango Delta  ,BWP,Africa,Gaborone
+Lebanon,Jeita Grotto  ,LBP,Asia,Beirut
+Papua New Guinea,Kokoda Track  ,PGK,Oceania,Port Moresby
+Mayotte,Mont Choungui  ,EUR,Africa,Mamoudzou
+Dominican Republic,Saona Island  ,DOP,Americas,Santo Domingo
+Norfolk Island,Emily Bay  ,AUD,Oceania,Kingston
+Bouvet Island,Bouvet Island Glacier  ,,Antarctic,
+Qatar,The Pearl-Qatar  ,QAR,Asia,Doha
+Madagascar,Avenue of the Baobabs  ,MGA,Africa,Antananarivo
+India,Taj Mahal  ,INR,Asia,New Delhi
+Syria,Umayyad Mosque  ,SYP,Asia,Damascus
+Montenegro,Bay of Kotor  ,EUR,Europe,Podgorica
+Eswatini,Mantenga Cultural Village  ,"SZL, ZAR",Africa,Mbabane
+Paraguay,Itaipu Dam  ,PYG,Americas,AsunciÃ³n
+El Salvador,Tazumal  ,USD,Americas,San Salvador
+Ukraine,Saint Sophia Cathedral  ,UAH,Europe,Kyiv
+Isle of Man,Laxey Wheel  ,"GBP, IMP",Europe,Douglas
+Namibia,Etosha National Park  ,"NAD, ZAR",Africa,Windhoek
+United Arab Emirates,Burj Khalifa  ,AED,Asia,Abu Dhabi
+Bulgaria,Rila Monastery  ,BGN,Europe,Sofia
+Greenland,Ilulissat Icefjord  ,DKK,Americas,Nuuk
+Germany,Neuschwanstein Castle  ,EUR,Europe,Berlin
+Cambodia,Angkor Wat  ,"KHR, USD",Asia,Phnom Penh
+Iraq,Ziggurat of Ur  ,IQD,Asia,Baghdad
+French Southern and Antarctic Lands,Port-aux-Français  ,EUR,Antarctic,Port-aux-FranÃ§ais
+Sweden,"Icehotel, Jukkasjärvi  ",SEK,Europe,Stockholm
+Cuba,Malecón  ,"CUC, CUP",Americas,Havana
+Kyrgyzstan,Issyk-Kul Lake  ,KGS,Asia,Bishkek
+Russia,Red Square  ,RUB,Europe,Moscow
+Malaysia,Petronas Towers  ,MYR,Asia,Kuala Lumpur
+SÃ£o TomÃ© and PrÃ­ncipe,Pico Cão Grande  ,STN,Africa,SÃ£o TomÃ©
+Cyprus,Aphrodite's Rock  ,EUR,Europe,Nicosia
+Canada,Niagara Falls  ,CAD,Americas,Ottawa
+Malawi,Lake Malawi  ,MWK,Africa,Lilongwe
+Saudi Arabia,Masmak Fortress  ,SAR,Asia,Riyadh
+Bosnia and Herzegovina,Stari Most  ,BAM,Europe,Sarajevo
+Ethiopia,Lalibela Rock-Hewn Churches  ,ETB,Africa,Addis Ababa
+Spain,Sagrada Familia  ,EUR,Europe,Madrid
+Slovenia,Lake Bled  ,EUR,Europe,Ljubljana
+Oman,Sultan Qaboos Grand Mosque  ,OMR,Asia,Muscat
+Saint Pierre and Miquelon,Île aux Marins  ,EUR,Americas,Saint-Pierre
+Macau,Ruins of St. Paul’s  ,MOP,Asia,
+San Marino,Guaita Tower  ,EUR,Europe,City of San Marino
+Lesotho,Maletsunyane Falls  ,"LSL, ZAR",Africa,Maseru
+Marshall Islands,Bikini Atoll  ,USD,Oceania,Majuro
+Sint Maarten,Maho Beach  ,ANG,Americas,Philipsburg
+Iceland,Blue Lagoon  ,ISK,Europe,Reykjavik
+Luxembourg,Vianden Castle  ,EUR,Europe,Luxembourg
+Argentina,Perito Moreno Glacier  ,ARS,Americas,Buenos Aires
+Turks and Caicos Islands,Grace Bay Beach  ,USD,Americas,Cockburn Town
+Nauru,Buada Lagoon  ,AUD,Oceania,Yaren
+Cocos (Keeling) Islands,Direction Island  ,AUD,Oceania,West Island
+Western Sahara,Dakhla Bay  ,"DZD, MAD, MRU",Africa,El AaiÃºn
+Dominica,Boiling Lake  ,XCD,Americas,Roseau
+Costa Rica,Arenal Volcano  ,CRC,Americas,San JosÃ©
+Australia,Uluru  ,AUD,Oceania,Canberra
+Thailand,Grand Palace  ,THB,Asia,Bangkok
+Haiti,Citadelle Laferrière  ,HTG,Americas,Port-au-Prince
+Tuvalu,Funafuti Lagoon  ,"AUD, TVD",Oceania,Funafuti
+Honduras,Copán Ruins  ,HNL,Americas,Tegucigalpa
+Equatorial Guinea,Bata Cathedral  ,XAF,Africa,Malabo
+Saint Lucia,Pitons  ,XCD,Americas,Castries
+French Polynesia,Bora Bora Lagoon  ,XPF,Oceania,PapeetÄ“
+Belarus,Mir Castle  ,BYN,Europe,Minsk
+Latvia,Rund?le Palace  ,EUR,Europe,Riga
+Palau,Jellyfish Lake  ,USD,Oceania,Ngerulmud
+Guadeloupe,La Soufrière Volcano  ,EUR,Americas,Basse-Terre
+Philippines,Chocolate Hills  ,PHP,Asia,Manila
+Gibraltar,Rock of Gibraltar  ,GIP,Europe,Gibraltar
+Denmark,Nyhavn  ,DKK,Europe,Copenhagen
+Cameroon,Mount Cameroon  ,XAF,Africa,YaoundÃ©
+Guinea,Mount Nimba  ,GNF,Africa,Conakry
+Bahrain,Bahrain Fort  ,BHD,Asia,Manama
+Suriname,Brownsberg Nature Park  ,SRD,Americas,Paramaribo
+DR Congo,Virunga National Park  ,CDF,Africa,Kinshasa
+Somalia,Laas Geel  ,SOS,Africa,Mogadishu
+Czechia,Charles Bridge  ,CZK,Europe,Prague
+New Caledonia,Heart of Voh  ,XPF,Oceania,NoumÃ©a
+Vanuatu,Mount Yasur  ,VUV,Oceania,Port Vila
+"Saint Helena, Ascension and Tristan da Cunha",Diana’s Peak  ,"GBP, SHP",Africa,Jamestown
+Togo,Koutammakou  ,XOF,Africa,LomÃ©
+British Virgin Islands,The Baths  ,USD,Americas,Road Town
+Kenya,Maasai Mara  ,KES,Africa,Nairobi
+Niue,Avaiki Cave  ,NZD,Oceania,Alofi
+Heard Island and McDonald Islands,Mawson Peak  ,,Antarctic,
+Rwanda,Kigali Genocide Memorial  ,RWF,Africa,Kigali
+Estonia,Tallinn Old Town  ,EUR,Europe,Tallinn
+Romania,Bran Castle  ,RON,Europe,Bucharest
+Trinidad and Tobago,Pitch Lake  ,TTD,Americas,Port of Spain
+Guyana,Kaieteur Falls  ,GYD,Americas,Georgetown
+Timor-Leste,Cristo Rei of Dili  ,USD,Asia,Dili
+Vietnam,Ha Long Bay  ,VND,Asia,Hanoi
+Uruguay,Punta del Este  ,UYU,Americas,Montevideo
+Vatican City,St. Peter’s Basilica  ,EUR,Europe,Vatican City
+Hong Kong,Victoria Peak  ,HKD,Asia,City of Victoria
+Austria,Schönbrunn Palace  ,EUR,Europe,Vienna
+Antigua and Barbuda,Nelson’s Dockyard  ,XCD,Americas,Saint John's
+Turkmenistan,Gates of Hell  ,TMT,Asia,Ashgabat
+Mozambique,Bazaruto Archipelago  ,MZN,Africa,Maputo
+Panama,Panama Canal  ,"PAB, USD",Americas,Panama City
+Micronesia,Nan Madol  ,USD,Oceania,Palikir
+Ireland,Cliffs of Moher  ,EUR,Europe,Dublin
+CuraÃ§ao,Queen Emma Bridge  ,ANG,Americas,Willemstad
+French Guiana,Îles du Salut  ,EUR,Americas,Cayenne
+Norway,Geirangerfjord  ,NOK,Europe,Oslo
+Ã…land Islands,Kastelholm Castle  ,EUR,Europe,Mariehamn
+Central African Republic,Dzanga-Sangha Reserve  ,XAF,Africa,Bangui
+Burkina Faso,Sindou Peaks  ,XOF,Africa,Ouagadougou
+Eritrea,Dahlak Archipelago  ,ERN,Africa,Asmara
+Tanzania,Mount Kilimanjaro  ,TZS,Africa,Dodoma
+South Korea,Gyeongbokgung Palace  ,KRW,Asia,Seoul
+Jordan,Petra  ,JOD,Asia,Amman
+Mauritania,Banc d’Arguin National Park  ,MRU,Africa,Nouakchott
+Lithuania,Hill of Crosses  ,EUR,Europe,Vilnius
+United States Minor Outlying Islands,Wake Island  ,USD,Americas,Washington DC
+Slovakia,Spiš Castle  ,EUR,Europe,Bratislava
+Angola,Tundavala Gap  ,AOA,Africa,Luanda
+Kazakhstan,Bayterek Tower  ,KZT,Asia,Nur-Sultan
+Moldova,Orheiul Vechi  ,MDL,Europe,ChiÈ™inÄƒu
+Mali,Djinguereber Mosque  ,XOF,Africa,Bamako
+Falkland Islands,Volunteer Point  ,FKP,Americas,Stanley
+Armenia,Garni Temple  ,AMD,Asia,Yerevan
+Samoa,Alofaaga Blowholes  ,WST,Oceania,Apia
+Jersey,Mont Orgueil Castle  ,"GBP, JEP",Europe,Saint Helier
+Japan,Mount Fuji  ,JPY,Asia,Tokyo
+Bolivia,Salar de Uyuni  ,BOB,Americas,Sucre
+Chile,"Moai Statues, Easter Island  ",CLP,Americas,Santiago
+United States,Grand Canyon  ,USD,Americas,"Washington, D.C."
+Saint Vincent and the Grenadines,La Soufrière Volcano  ,XCD,Americas,Kingstown
+Bermuda,Horseshoe Bay  ,BMD,Americas,Hamilton
+Seychelles,Anse Source d'Argent  ,SCR,Africa,Victoria
+British Indian Ocean Territory,Diego Garcia Atoll  ,USD,Africa,Diego Garcia
+Guatemala,Tikal  ,GTQ,Americas,Guatemala City
+Ecuador,Galápagos Islands  ,USD,Americas,Quito
+Martinique,Mont Pelée  ,EUR,Americas,Fort-de-France
+Tajikistan,Iskanderkul Lake  ,TJS,Asia,Dushanbe
+Malta,?al Saflieni Hypogeum  ,EUR,Europe,Valletta
+Gambia,Kunta Kinteh Island  ,GMD,Africa,Banjul
+Nigeria,Zuma Rock  ,NGN,Africa,Abuja
+Bahamas,Pink Sands Beach  ,"BSD, USD",Americas,Nassau
+Kosovo,Germia Park  ,EUR,Europe,Pristina
+Kuwait,Kuwait Towers  ,KWD,Asia,Kuwait City
+Maldives,Vaadhoo Island  ,MVR,Asia,MalÃ©
+South Sudan,White Nile  ,SSP,Africa,Juba
+Iran,Persepolis  ,IRR,Asia,Tehran
+Albania,Butrint National Park  ,ALL,Europe,Tirana
+Brazil,Christ the Redeemer  ,BRL,Americas,BrasÃ­lia
+Serbia,Kalemegdan Fortress  ,RSD,Europe,Belgrade
+Belize,Great Blue Hole  ,BZD,Americas,Belmopan
+Myanmar,Bagan Temples  ,MMK,Asia,Naypyidaw
+Bhutan,Paro Taktsang (Tiger’s Nest)  ,"BTN, INR",Asia,Thimphu
+Venezuela,Angel Falls  ,VES,Americas,Caracas
+Liberia,Providence Island  ,LRD,Africa,Monrovia
+Jamaica,Dunn’s River Falls  ,JMD,Americas,Kingston
+Poland,Wieliczka Salt Mine  ,PLN,Europe,Warsaw
+Cayman Islands,Stingray City  ,KYD,Americas,George Town
+Brunei,Sultan Omar Ali Saifuddien Mosque  ,"BND, SGD",Asia,Bandar Seri Begawan
+Comoros,Mount Karthala  ,KMF,Africa,Moroni
+Guam,Two Lovers Point  ,USD,Oceania,HagÃ¥tÃ±a
+Tonga,Ha?amonga 'a Maui  ,TOP,Oceania,Nuku'alofa
+Kiribati,Christmas Island Lagoon  ,"AUD, KID",Oceania,South Tarawa
+Ghana,Cape Coast Castle  ,GHS,Africa,Accra
+Chad,Lakes of Ounianga  ,XAF,Africa,N'Djamena
+Zimbabwe,Victoria Falls  ,ZWL,Africa,Harare
+Saint Martin,Fort Louis  ,EUR,Americas,Marigot
+Mongolia,Flaming Cliffs  ,MNT,Asia,Ulan Bator
+Portugal,Belém Tower  ,EUR,Europe,Lisbon
+American Samoa,Ofu Beach  ,USD,Oceania,Pago Pago
+Republic of the Congo,Basilique Sainte-Anne-du-Congo  ,XAF,Africa,Brazzaville
+Belgium,Grand Place  ,EUR,Europe,Brussels
+Israel,Masada  ,ILS,Asia,Jerusalem
+New Zealand,Milford Sound  ,NZD,Oceania,Wellington
+Nicaragua,Ometepe Island  ,NIO,Americas,Managua
+Anguilla,Shoal Bay  ,XCD,Americas,The Valley
+Taiwan,Taipei 101  ,TWD,Asia,Taipei
