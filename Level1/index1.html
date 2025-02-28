@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Geography Quiz Game</title>
+    <link rel="stylesheet" href="style1.css">
+</head>
+<body>
+    <h1>Geography Quiz Game</h1>
+    
+    <div class="intro">
+        <p>Test your knowledge of world geography with this quiz! You'll be asked questions about:</p>
+        <ul>
+            <li>Country capitals</li>
+            <li>Currencies</li>
+            <li>Continents</li>
+            <li>And more!</li>
+        </ul>
+        <p>Each quiz contains 10 randomly generated questions. Good luck!</p>
+        <button id="start-btn" class="btn">Start Quiz</button>
+    </div>
+    
+    <div id="loading">Loading questions...</div>
+    
+    <div id="quiz-container">
+        <div class="progress-container">
+            <span class="progress-text">Question <span id="current-question">1</span> of <span id="total-questions">10</span></span>
+            <span class="progress-text">Score: <span id="current-score">0</span></span>
+        </div>
+        
+        <div id="question-container" class="question-container">
+            <div id="question" class="question"></div>
+            <div id="options" class="options"></div>
+        </div>
+        
+        <button id="next-btn" class="btn" style="display: none;">Next Question</button>
+    </div>
+    
+    <div id="result-container">
+        <div class="score">Your score: <span id="final-score">0</span> / <span id="max-score">10</span></div>
+        <button id="restart-btn" class="btn">Play Again</button>
+    </div>
+    <script src="script1.js"></script>
+</body>
+</html>

@@ -1,0 +1,133 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f5f7fa;
+    color: #333;
+}
+h1 {
+    color: #2c3e50;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.intro {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+#quiz-container {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    display: none;
+}
+.question-container {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #eee;
+}
+.question {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 15px;
+    color: #2c3e50;
+}
+.options {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 10px;
+}
+.option {
+    background-color: #f8f9fa;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 10px 15px;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+.option:hover {
+    background-color: #e9ecef;
+}
+.selected {
+    background-color: #4a69bd;
+    color: white;
+    border-color: #4a69bd;
+}
+.correct {
+    background-color: #6ab04c;
+    color: white;
+    border-color: #6ab04c;
+}
+.incorrect {
+    background-color: #eb4d4b;
+    color: white;
+    border-color: #eb4d4b;
+}
+.btn {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    display: inline-block;
+    margin-top: 20px;
+    transition: background-color 0.3s;
+}
+.btn:hover {
+    background-color: #2980b9;
+}
+#start-btn {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+}
+#result-container {
+    background-color: #fff;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    margin-top: 20px;
+    display: none;
+    text-align: center;
+}
+.score {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #2c3e50;
+}
+.progress-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.progress-text {
+    font-weight: 600;
+    color: #555;
+}
+#loading {
+    text-align: center;
+    padding: 20px;
+    font-style: italic;
+    color: #666;
+    display: none;
+}
+.error-message {
+    background-color: #ffdddd;
+    color: #d8000c;
+    padding: 15px;
+    margin: 20px 0;
+    border-radius: 4px;
+    text-align: center;
+}
+@media (min-width: 600px) {
+    .options {
+        grid-template-columns: 1fr 1fr;
+    }
+}
